@@ -7,7 +7,7 @@
 - (念のため)ライブラリを使用せず自力で実装する方法についてもまとめておく
 
 ## 目次
-- [基本概念](java_game_base.pdf)
+- [基本概念](java_game_base.md)
 - [自力で実装する](java_game_implement.md)
 	- 初心者は読まなくていい
 - [ライブラリを使う:基本](java_game_library_base.md)
