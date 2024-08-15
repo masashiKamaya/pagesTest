@@ -20,6 +20,7 @@
 
 ### mavenのpom.xml
 - リポジトリ
+
 ```xml
 <repositories>
 	<repository>
@@ -28,7 +29,9 @@
 	</repository>
 </repositories>
 ```
+
 - 依存関係
+
 ```xml
 <dependency>
 	<groupId>gframe.base</groupId>
