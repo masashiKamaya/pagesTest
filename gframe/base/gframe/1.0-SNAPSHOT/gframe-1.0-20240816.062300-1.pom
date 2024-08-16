@@ -54,7 +54,7 @@
 							<message>Creating site for ${project.artifactId} ${project.version}</message>
 							<outputDirectory>${project.build.directory}/mvn-repo</outputDirectory>
 							<branch>refs/heads/master</branch>
-							<merge>true</merge>
+							<merge>false</merge>
 						</configuration>
 					</execution>
 				</executions>
