@@ -13,6 +13,9 @@
 - [ライブラリを使う:基本](java_game_library_base.md)
 - [ライブラリを使う:発展](java_game_library_hatten.md)
 
+## javadoc
+- [ドキュメント](https://masashikamaya.github.io/pagesTest/doc/index.html)
+
 ## 参考文献
 - [Javaゲームプログラミング](https://nompor.com/page-541/)
 - [Javaでゲーム作りますが何か？](https://aidiary.hatenablog.com/entry/20040918/1251373370)
