@@ -1,20 +1,11 @@
 # javaでゲームを作るには
 
-## 概要
-- javaの基本文法を学習した初心者をターゲットにゲームの作り方を講義する
-- はじめにゲーム制作の基本的な概念について説明
-- 独自ライブラリを利用して実装を行う
-- (念のため)ライブラリを使用せず自力で実装する方法についてもまとめておく
-
 ## 目次
+- [はじめに](java_game_intro.md)
 - [基本概念](java_game_base.md)
-- [自力で実装する](java_game_implement.md)
-	- 初心者は読まなくていい
+- [自力で実装する(初心者は読まなくていい)](java_game_implement.md)
 - [ライブラリを使う:基本](java_game_library_base.md)
 - [ライブラリを使う:発展](java_game_library_hatten.md)
-
-## javadoc
-- [ドキュメント](https://masashikamaya.github.io/pagesTest/doc/index.html)
 
 ## 参考文献
 - [Javaゲームプログラミング](https://nompor.com/page-541/)
