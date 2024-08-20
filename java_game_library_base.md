@@ -42,7 +42,7 @@
 
 ### jarファイル
 - mavenを使わずに`javac`で開発したい場合はjarファイルをクラスパスに追加してコンパイルする必要がある
-- [jarファイル](https://raw.githubusercontent.com/masashiKamaya/pagesTest/master/gframe/base/gframe/1.0-SNAPSHOT/gframe-1.0-20240815.070655-1.jar)
+- [jarファイル](https://raw.githubusercontent.com/masashiKamaya/pagesTest/master/gframe/base/gframe/1.0-SNAPSHOT/gframe-1.0-20240816.082923-2.jar)
 
 ## Hello, world
 - ライブラリ内に`gframe.base.Frame`というクラスがある
